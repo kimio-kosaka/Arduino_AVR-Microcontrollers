@@ -25,7 +25,7 @@ menu.clock=Clock
 [CLASS].menu.cpu.[DEVICE1].upload.maximum_size=
 [CLASS].menu.cpu.[DEVICE1].upload.maximum_data_size=
 [CLASS].menu.cpu.[DEVICE1].build.mcu=[DEVICE1]
-[CLASS].build.core=
+[CLASS].menu.cpu.build.core=
 [CLASS].menu.cpu.[DEVICE1].build.variant=
 
 ##         [DEVICE-NAME2]
@@ -34,7 +34,7 @@ menu.clock=Clock
 [CLASS].menu.cpu.[DEVICE2].upload.maximum_size=
 [CLASS].menu.cpu.[DEVICE2].upload.maximum_data_size=
 [CLASS].menu.cpu.[DEVICE2].build.mcu=[DEVICE2]
-[CLASS].build.core=
+[CLASS].menu.cpu.build.core=
 [CLASS].menu.cpu.[DEVICE1].build.variant=
 
 ##        internal [CLOCK1]MHz
